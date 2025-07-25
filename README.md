@@ -19,6 +19,10 @@ Steps Taken by the Program:
 you can then save the new image with the classification.
 
 ## Running this Project
-1. Clone this repository
+1. Insert an image into jetson
+2. clone the repository
+3. Make sure you have labels.txt and the files in the models folder
+4. Run the script:
+   
 
 (Video: https://drive.google.com/file/d/14t0fi99A6TtwYR_JhPFuL2vQj72hEfP3/view?usp=sharing )
