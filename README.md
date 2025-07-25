@@ -7,7 +7,7 @@ This algorithm uses the NVIDIA Jetson Nano, using the jetson-inference framework
 
 Camera → Preprocessing → CNN Model → Class Label + Confidence → Display
 
-Steps:
+Steps Taken by the Program:
 - load an image - it does support live detection
 - classify the fruit or veggie
 - matching the label to the object displayed in the image along with its confidence on the image.
