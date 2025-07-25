@@ -22,7 +22,9 @@ you can then save the new image with the classification.
 1. Insert an image into jetson
 2. clone the repository
 3. Make sure you have labels.txt and the files in the models folder
-4. Run the script:
-   
+4. Run the script in docker:
+   imagenet.py --model=<path to file>/resnet18.onnx --labels=<path to file>/labels.txt --input_blob = input_0 --output_blob=output_0 <path to directory>/<specific file in which the picture is in>/<file name> <name of outputted picture>
+5. then obtain the picture
+   - sudo docker cp <docker container ID>:/<where the image should be (equal to what is written in the docker)> ~/<place to find the image>
 
 (Video: https://drive.google.com/file/d/14t0fi99A6TtwYR_JhPFuL2vQj72hEfP3/view?usp=sharing )
