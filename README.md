@@ -1,9 +1,11 @@
 # Fruit & Vegetable Classifier
 An AI model designed to identify different fruits and vegetables from submitted images. The model uses deep learning and computer vision techniques to classify various produce types with high accuracy. It is intended for applications such as grocery automation, dietary tracking, educational tools, and AI-powered kitchen assistants.
 
-(Sample: https://drive.google.com/file/d/1ru1cwMjjzkJRY-QYpkvISBW1F0Bi4U8T/view?usp=sharing )
+Sample:
+![output_banana](https://github.com/user-attachments/assets/05953be6-4e93-4fa8-ae80-d81e5e551ad7)
+![output_dragonfruit](https://github.com/user-attachments/assets/46be8b33-8168-4c1b-99f4-96c4a1f0504d)
+![output_fig](https://github.com/user-attachments/assets/5b330b93-cde1-466d-be97-b24df7bc9e27)
 
-(Sample: https://drive.google.com/file/d/1Lc1rxkkKFxuym5QS-EjYAGMBfSOo4skj/view?usp=sharing )
 ## The Algorithm
 This algorithm uses the NVIDIA Jetson Nano, using the jetson-inference framework with a pre-trained model through the Open Neural Network Exchange (ONNX), a classification model.
 
