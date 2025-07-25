@@ -2,7 +2,9 @@
 An AI model designed to identify different fruits and vegetables from submitted images. The model uses deep learning and computer vision techniques to classify various produce types with high accuracy. It is intended for applications such as grocery automation, dietary tracking, educational tools, and AI-powered kitchen assistants.
 
 Sample:
-![output_banana](https://github.com/user-attachments/assets/05953be6-4e93-4fa8-ae80-d81e5e551ad7)
+(https://drive.google.com/file/d/1ru1cwMjjzkJRY-QYpkvISBW1F0Bi4U8T/view?usp=sharing)
+(https://drive.google.com/file/d/1Lc1rxkkKFxuym5QS-EjYAGMBfSOo4skj/view?usp=drive_link)
+(https://drive.google.com/file/d/1KP13pqzAAOMgn6FP9AMa_ZkKcvxdPwsH/view?usp=drive_link)
 
 ## The Algorithm
 This algorithm uses the NVIDIA Jetson Nano, using the jetson-inference framework with a pre-trained model through the Open Neural Network Exchange (ONNX), a classification model.
